@@ -1,2 +1,2 @@
-# bertakuisma
+# Berta Kuisma
 My portfolio page
